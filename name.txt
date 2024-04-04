@@ -1,2 +1,3 @@
 Hello there.
-thisis file1.
+this is file1.
+this is line 2
